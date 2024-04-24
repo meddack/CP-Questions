@@ -9,3 +9,6 @@ int main()
    cout<<"Hello,"<<a;
 
 }
+// git add .
+// git commit -m "problem A"
+// git push
